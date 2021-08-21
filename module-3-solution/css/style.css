@@ -3,6 +3,7 @@ body{
     background-color: #ffd32a;
     color: #353535;
     font-family: sans-serif,Verdana, Geneva, Tahoma;
+    overflow-x: hidden;
 }
 
 h1{
